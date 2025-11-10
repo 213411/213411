@@ -6,7 +6,7 @@
 - 📫 My email **mohamed.emadeldinn1@gmail.com**
 
 
-<img src="<img width="331" height="331" alt="image" src="https://github.com/user-attachments/assets/a94f20ef-ae40-4490-9b93-2cfd889bc8de" />">
+<img width="100%" height="331" alt="image" src="https://github.com/user-attachments/assets/a94f20ef-ae40-4490-9b93-2cfd889bc8de" />
 
 
 <h3 align="left">Languages and Tools:</h3>
