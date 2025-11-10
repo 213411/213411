@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Mohamed Emad Eldin</h1>
-<h3 align="center">A passionate frontend developer from Egypt</h3>
+<h3 align="center">A passionate software enginee from Egypt</h3>
 
 - 📱My phone number **01026366411**
 
 - 📫 My email **mohamed.emadeldinn1@gmail.com**
 
 
-<img width="100%" height="331" alt="image" src="https://github.com/user-attachments/assets/a94f20ef-ae40-4490-9b93-2cfd889bc8de" />
+
 
 
 <h3 align="left">Languages and Tools:</h3>
